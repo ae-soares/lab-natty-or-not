@@ -20,22 +20,24 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Artigo: Bitcoin e Criptomoedas para Iniciantes
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Criação de um artigo sobre criptomoedas para leigos, em especial Bitcoin. Abordando o que são criptomoedas, como são usadas, quais as perspectivas de adoção do Bitcoin como reserva de valor para as pessoas e reserva monetária para os países. O futuro do Bitcoin e o que esperar para os próximos anos.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT, Bing Image Creator, Word.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Escolhi o tema e solicitei ao ChatGPT a criação de um artigo. Forneci parâmetros necessários e quais questões deveriam ser abordadas.
+Utilizei o Bing Image Creator para criar uma imagem que seria a capa do artigo.
+Por fim, utilizei o Word, coloquei a imagem com o título na primeira página, colei e justifiquei o texto gerado pelo GPT e fiz pequenas edições. Exportei para PDF.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O artigo gerado é pequeno, mas gostei do resultado. Ficou um texto de fácil entendimento e que pode ser utilizado por quem nunca teve contato com bitcoin e criptomoedas.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Achei super interessante a possibilidade de criar algo "natty" com ferramentas de IA e gostei do resultado. Se a pessoa se dedicar e estudar algumas ferramentas de IA pode criar coisas incríveis.
 ```
 
 ### Exemplos e Insigths
