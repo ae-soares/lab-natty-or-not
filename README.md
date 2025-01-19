@@ -23,7 +23,7 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Artigo: Bitcoin e Criptomoedas para Iniciantes
 
 ## 📒 Descrição
-Criação de um artigo sobre criptomoedas para leigos, em especial Bitcoin. Abordando o que são criptomoedas, como são usadas, quais as perspectivas de adoção do Bitcoin como reserva de valor para as pessoas e reserva monetária para os países. O futuro do Bitcoin e o que esperar para os próximos anos.
+Baseado no repositório original https://github.com/digitalinnovationone/lab-natty-or-not e na aula de Desafio de Projeto "Natural ou Fake Natty? Como Vencer na Era das IAs Generativas!" da plataforma DIO.me em que consistia utilizar as IAs generativas para criação de conteúdo que pareça realista. Optei pela criação de um artigo sobre criptomoedas para leigos, em especial Bitcoin. Abordando o que são criptomoedas, como são usadas, quais as perspectivas de adoção do Bitcoin como reserva de valor para as pessoas e reserva monetária para os países. O futuro do Bitcoin e o que esperar para os próximos anos.
 
 ## 🤖 Tecnologias Utilizadas
 ChatGPT, Bing Image Creator, Word.
