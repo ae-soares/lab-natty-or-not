@@ -23,7 +23,7 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Artigo: Bitcoin e Criptomoedas para Iniciantes
 
 ## 📒 Descrição
-Baseado no repositório original https://github.com/digitalinnovationone/lab-natty-or-not e na aula de Desafio de Projeto "Natural ou Fake Natty? Como Vencer na Era das IAs Generativas!" da plataforma DIO.me em que consistia utilizar as IAs generativas para criação de conteúdo que pareça realista. Optei pela criação de um artigo sobre criptomoedas para leigos, em especial Bitcoin. Abordando o que são criptomoedas, como são usadas, quais as perspectivas de adoção do Bitcoin como reserva de valor para as pessoas e reserva monetária para os países. O futuro do Bitcoin e o que esperar para os próximos anos.
+Baseado no repositório original https://github.com/digitalinnovationone/lab-natty-or-not e na aula de Desafio de Projeto "Natural ou Fake Natty? Como Vencer na Era das IAs Generativas!" da plataforma DIO (https://web.dio.me/) em que consistia utilizar as IAs generativas para criação de conteúdo que pareça realista. Optei pela criação de um artigo sobre criptomoedas para leigos, em especial Bitcoin. Abordando o que são criptomoedas, como são usadas, quais as perspectivas de adoção do Bitcoin como reserva de valor para as pessoas e reserva monetária para os países. O futuro do Bitcoin e o que esperar para os próximos anos.
 
 ## 🤖 Tecnologias Utilizadas
 ChatGPT, Bing Image Creator, Word.
@@ -38,6 +38,27 @@ O artigo gerado é pequeno, mas gostei do resultado. Ficou um texto de fácil en
 
 ## 💭 Reflexão (Opcional)
 Achei super interessante a possibilidade de criar algo "natty" com ferramentas de IA e gostei do resultado. Se a pessoa se dedicar e estudar algumas ferramentas de IA pode criar coisas incríveis.
+```
+
+### Modelo de Template para Descrição do Projeto:
+
+```markdown
+# Título do Projeto Extremamente Aesthetic ;)
+
+## 📒 Descrição
+Breve descrição do seu projeto
+
+## 🤖 Tecnologias Utilizadas
+Liste as IAs Generativas e outras ferramentas usadas
+
+## 🧐 Processo de Criação
+Descreva como você criou o conteúdo
+
+## 🚀 Resultados
+Apresente os resultados do seu projeto
+
+## 💭 Reflexão (Opcional)
+Comente sobre o desafio de criar algo 'natty' com IA.
 ```
 
 ### Exemplos e Insigths
